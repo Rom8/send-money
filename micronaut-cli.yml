@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: send.money
+---
+testFramework: spock
+sourceLanguage: java
